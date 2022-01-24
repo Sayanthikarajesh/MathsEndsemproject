@@ -1,2 +1,2 @@
 # MathsEndsem-1project
-# mentalhealthpredictor
+# mental health predictor
